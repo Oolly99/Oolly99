@@ -12,9 +12,12 @@ How many points does it take to win the league, finish in the top four, or avoid
 
 Analysed a quarter of restaurant orders to compare cuisine sales, peak trading hours, and frequently ordered item pairs. The project includes an interactive dashboard, original data, and a reproducible Python notebook.
 
+### [Northwind Sales Analysis with MySQL](https://github.com/Oolly99/northwind-mysql-analysis)
+
+Used MySQL joins and aggregations to measure sales concentration, investigate orders with missing detail lines, and verify employee join coverage. The project includes eight SQL scripts, result CSVs, and a query walkthrough.
+
 ## Other analysis experience
 
-- **Retail sales and data quality:** Used SQL to examine sales concentration and identify records with missing employee matches in the Northwind sample dataset.
 - **Coastal sediment geochemistry:** Analysed sediment texture and trace metals along a coastal transect in Ilaje, Ondo State.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/bamgbose-olaoluwa-4a20a2290/)
