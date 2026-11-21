@@ -2,15 +2,18 @@
 
 I’m a Marine Science and Technology graduate based in Lagos, Nigeria. I use Python, SQL, Excel, and Power BI to clean data, investigate patterns, and communicate findings.
 
-## Featured project
+## Featured projects
 
 ### [Premier League Performance Analytics](https://github.com/Oolly99/premier-league-analytics)
 
 How many points does it take to win the league, finish in the top four, or avoid relegation? I collected and cleaned historical standings, then analysed **33 completed seasons** using Python, pandas, NumPy, and Matplotlib. The repository includes the data extraction and analysis notebooks, methodology, and key findings.
 
+### [Restaurant Sales and Menu Performance](https://github.com/Oolly99/restaurant-sales-analysis)
+
+Analysed a quarter of restaurant orders to compare cuisine sales, peak trading hours, and frequently ordered item pairs. The project includes an interactive dashboard, original data, and a reproducible Python notebook.
+
 ## Other analysis experience
 
-- **Restaurant sales and menu performance:** Analysed sales by menu category, day, and time using Python and Power BI.
 - **Retail sales and data quality:** Used SQL to examine sales concentration and identify records with missing employee matches in the Northwind sample dataset.
 - **Coastal sediment geochemistry:** Analysed sediment texture and trace metals along a coastal transect in Ilaje, Ondo State.
 
